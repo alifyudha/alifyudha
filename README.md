@@ -25,32 +25,31 @@
         <li>Currently exploring: API design, packaging flows, and DX.</li>
       </ul>
 
-      <!-- Socials (edit your links) -->
-      <p>
-        <a href="https://youtube.com" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-        </a>
-        <a href="https://instagram.com" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-        </a>
-        <a href="https://twitch.tv" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" />
-        </a>
-        <a href="https://discordapp.com/users/" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-        </a>
-        <a href="mailto:someone@example.com">
-          <img height="30" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-        </a>
-        <a href="https://linkedin.com/in/" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td align="right" width="40%">
-      <img align="right" alt="avatar" height="160" style="border-radius:16px"
-           src="https://i.imgur.com/EkrtPAx.jpeg" />
-    </td>
+<p>
+  <a href="https://youtube.com">
+    <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com">
+    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitch.tv">
+    <img height="30" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discordapp.com/users/">
+    <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:someone@example.com">
+    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+<td align="right" width="40%">
+  <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
+</td>
+
   </tr>
 </table>
 
