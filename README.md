@@ -11,31 +11,33 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-7aa2f7?style=flat" alt="focus" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle" width="60%">
-      <h3>About me</h3>
-      <div style="max-width:520px;margin:auto;">
-        <ul style="list-style-position:inside;text-align:center;padding-left:0;margin:0;">
-          <li>Nonchalant but shy.</li>
-          <li>Perfectionist</li>
-          <li>Currently exploring: Scraping and making API of it.</li>
-        </ul>
-      </div>
-      <p>
-        <a href="https://youtube.com/Dandy3" target="_blank" rel="noopener noreferrer">
-          <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
-        </a>
-        <a href="https://discordapp.com/users/353484123144192000/" target="_blank" rel="noopener noreferrer">
-          <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-        </a>
-      </p>
-    </td>
-    <td align="center" valign="middle" width="40%">
-      <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <h3>About me</h3>
+        <div align="left">
+          <ul>
+            <li>Nonchalant but shy.</li>
+            <li>Perfectionist</li>
+            <li>Currently exploring: Scraping and making API of it.</li>
+          </ul>
+        </div>
+        <p>
+          <a href="https://youtube.com/Dandy3" target="_blank" rel="noopener noreferrer">
+            <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+          </a>
+          <a href="https://discordapp.com/users/353484123144192000/" target="_blank" rel="noopener noreferrer">
+            <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+          </a>
+        </p>
+      </td>
+      <td align="center" valign="middle">
+        <img alt="avatar" height="160" src="https://i.imgur.com/EkrtPAx.jpeg" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3>I DO</h3>
 <p>
