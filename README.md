@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dandy</h1>
-<p align="center">
-  Programmer • Gamer • Indonesia
-</p>
+<p align="center">Programmer • Gamer • Indonesia</p>
 
 <p align="center">
   <a href="https://github.com/alifyudha">
@@ -17,8 +15,8 @@
   <tr>
     <td align="center" valign="middle" width="60%">
       <h3>About me</h3>
-      <div align="left" style="display:inline-block;text-align:left;">
-        <ul>
+      <div style="max-width:520px;margin:auto;">
+        <ul style="list-style-position:inside;text-align:center;padding-left:0;margin:0;">
           <li>Nonchalant but shy.</li>
           <li>Perfectionist</li>
           <li>Currently exploring: Scraping and making API of it.</li>
