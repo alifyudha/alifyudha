@@ -28,20 +28,20 @@
         </ul>
       </div>
 
-      <p>
-        <a href="https://youtube.com/Dandy3" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-        </a>
-        <a href="https://discordapp.com/users/353484123144192000/" target="_blank">
-          <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-        </a>
-      </p>
-    </td>
+  <p>
+      <a href="https://youtube.com/Dandy3" target="_blank">
+        <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+      </a>
+      <a href="https://discordapp.com/users/353484123144192000/" target="_blank">
+        <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+      </a>
+    </p>
+  </td>
 
     <!-- Avatar -->
-    <td align="center" valign="middle" width="40%">
-      <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
-    </td>
+  <td align="center" valign="middle" width="40%">
+    <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
+  </td>
   </tr>
 </table>
 
