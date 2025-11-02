@@ -20,16 +20,16 @@
     <td align="left" width="60%">
       <h3>About me</h3>
       <ul>
-        <li>Building apps and tooling around Next.js, FastAPI, and automation.</li>
-        <li>Love clean UI, small utilities, and shipping often.</li>
-        <li>Currently exploring: API design, packaging flows, and DX.</li>
+        <li>Nonchalant but shy.</li>
+        <li>Perfectionist</li>
+        <li>Currently exploring: Scraping and making API of it.</li>
       </ul>
 
 <p>
   <a href="https://youtube.com/Dandy3">
     <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discordapp.com/vinoland/">
+  <a href="https://discordapp.com/353484123144192000/">
     <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
 </p>
