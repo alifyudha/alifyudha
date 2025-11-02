@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/HclnyaAvK48AAAAC/webtoons.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/HclnyaAvK48AAAAC/tenor.gif"  />
 
 ###
 
