@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Dandy</h1>
 <p align="center">
-  Programmer • Indonesia • JS/TS • React/Next • Python • FastAPI
+  Programmer • Gamer • Indonesia
 </p>
 
 <p align="center">
@@ -26,23 +26,11 @@
       </ul>
 
 <p>
-  <a href="https://youtube.com">
+  <a href="https://youtube.com/Dandy3">
     <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com">
-    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitch.tv">
-    <img height="30" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://discordapp.com/users/">
+  <a href="https://discordapp.com/vinoland/">
     <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:someone@example.com">
-    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -53,8 +41,7 @@
   </tr>
 </table>
 
-<!-- TECH STACK -->
-<h3>Tech I use</h3>
+<h3>Languange i use</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
@@ -78,25 +65,18 @@
 <!-- FEATURED PROJECTS -->
 <h3>Featured projects</h3>
 
-<!-- Example pin: update repo names if needed -->
 <p align="left">
   <a href="https://github.com/alifyudha/dandy-fps-project">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=alifyudha&repo=dandy-fps-project&theme=transparent&hide_border=false" />
   </a>
-  <!-- Add more pins:
+  <!-- Later
   <a href="https://github.com/alifyudha/your-repo">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=alifyudha&repo=your-repo&theme=transparent&hide_border=false" />
   </a>
   -->
 </p>
 
-<!-- CONTACT -->
-<h3>Get in touch</h3>
-<ul>
-  <li>Open an issue on any repo, or reach me via the badges above.</li>
-</ul>
-
 <!-- FOOTER -->
 <p align="center">
-  <sub>Theme: tokyonight/transparent • Minimal, consistent, and mobile-friendly.</sub>
+  <sub>The code works perfectly fine until the client actually using it.</sub>
 </p>
