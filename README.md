@@ -14,34 +14,32 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-7aa2f7?style=flat" alt="focus" />
 </p>
 
+<!-- TOP SECTION: intro + avatar -->
 <table width="100%">
   <tr>
-    <td align="center" valign="middle" width="60%">
+    <td align="left" width="60%">
       <h3>About me</h3>
-      <div align="left" style="display:inline-block;text-align:left;">
-        <ul>
-          <li>Nonchalant but shy.</li>
-          <li>Perfectionist</li>
-          <li>Currently exploring: Scraping and making API of it.</li>
-        </ul>
-      </div>
+      <ul>
+        <li>Nonchalant but shy.</li>
+        <li>Perfectionist</li>
+        <li>Currently exploring: Scraping and making API of it.</li>
+      </ul>
 
-  <p>
-      <a href="https://youtube.com/Dandy3" target="_blank">
-        <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-      </a>
-      <a href="https://discordapp.com/users/353484123144192000/" target="_blank">
-        <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-      </a>
-    </p>
-  </td>
+<p>
+  <a href="https://youtube.com/Dandy3">
+    <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discordapp.com/353484123144192000/">
+    <img height="30" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-  <td align="center" valign="middle" width="40%">
-    <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
-  </td>
+<td align="right" width="40%">
+  <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
+</td>
+
   </tr>
 </table>
-
 
 <h3>I DO</h3>
 <p>
@@ -82,3 +80,6 @@
 <p align="center">
   <sub>The code works perfectly fine until the client actually using it.</sub>
 </p>
+
+
+can u make about me stuff on middle
