@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-<h3>Languange i use</h3>
+<h3>I DO</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
