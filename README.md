@@ -14,10 +14,8 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-7aa2f7?style=flat" alt="focus" />
 </p>
 
-<!-- TOP SECTION: intro + avatar (centered About me) -->
 <table width="100%">
   <tr>
-    <!-- About me (centered block, bullets kept left) -->
     <td align="center" valign="middle" width="60%">
       <h3>About me</h3>
       <div align="left" style="display:inline-block;text-align:left;">
@@ -38,7 +36,6 @@
     </p>
   </td>
 
-    <!-- Avatar -->
   <td align="center" valign="middle" width="40%">
     <img alt="avatar" height="160" style="border-radius:16px" src="https://i.imgur.com/EkrtPAx.jpeg" />
   </td>
