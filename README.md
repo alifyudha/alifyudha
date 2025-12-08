@@ -59,13 +59,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifyudha&layout=compact&langs_count=8&theme=transparent&hide_border=false" alt="Top languages" />
 </div>
 
-<h3>Featured projects</h3>
-<p align="left">
-  <a href="https://github.com/alifyudha/dandy-fps-project" target="_blank" rel="noopener noreferrer">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=alifyudha&repo=dandy-fps-project&theme=transparent&hide_border=false" alt="dandy-fps-project" />
-  </a>
-</p>
-
 <p align="center">
   <sub>The code works perfectly fine until the client actually using it.</sub>
 </p>
